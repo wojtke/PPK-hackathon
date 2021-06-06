@@ -4,7 +4,7 @@ The task was to predict whether employee signed up for the program would resign 
 
 My team solved the problem using Gradient Boosting and won the first prize.
 
-**Visualisation - exploratory data analysis, graphs showcasing some interactions within data
+**Visualisation - exploratory data analysis, graphs showcasing some interactions within data**
 
-**Prediction - processing the data and training XGB model
+**Prediction - processing the data and training XGB model**
   
